@@ -1,7 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "warriorcats_events:item/collar/cat_collar",
-    "layer1": "warriorcats_events:item/collar/cat_collar_bell_glow_overlay"
-  }
-}

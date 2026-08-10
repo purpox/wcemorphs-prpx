@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "warriorcats_events:custom/herb_mixing_rock", "y": 270 },
-    "facing=south": { "model": "warriorcats_events:custom/herb_mixing_rock", "y": 90 },
-    "facing=west":  { "model": "warriorcats_events:custom/herb_mixing_rock", "y": 180 },
-    "facing=east":  { "model": "warriorcats_events:custom/herb_mixing_rock", "y": 0 }
-  }
-}

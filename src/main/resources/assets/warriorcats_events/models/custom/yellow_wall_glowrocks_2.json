@@ -1,8 +1,0 @@
-{
-  "parent": "warriorcats_events:custom/wall_glowrocks_2",
-  "textures": {
-    "0": "warriorcats_events:block/yellow_wall_glowrock",
-    "1": "warriorcats_events:block/yellow_smaller_glowrock",
-    "particle": "warriorcats_events:block/yellow_wall_glowrock"
-  }
-}

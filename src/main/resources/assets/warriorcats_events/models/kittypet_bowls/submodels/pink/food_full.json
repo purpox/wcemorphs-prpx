@@ -1,9 +1,0 @@
-{
-  "parent": "warriorcats_events:kittypet_bowls/bowl_base_full",
-  "textures": {
-    "10": "minecraft:block/pink_concrete",
-    "particle": "minecraft:block/pink_concrete",
-
-    "11": "warriorcats_events:block/empty"
-  }
-}

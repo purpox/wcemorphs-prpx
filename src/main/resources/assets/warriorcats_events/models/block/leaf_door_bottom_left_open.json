@@ -1,8 +1,0 @@
-{
-  "parent": "warriorcats_events:custom/bottom_left_open_anim",
-  "render_type": "minecraft:cutout",
-  "textures": {
-    "bottom": "warriorcats_events:block/leaf_door_bottom",
-    "top": "warriorcats_events:block/leaf_door_top"
-  }
-}

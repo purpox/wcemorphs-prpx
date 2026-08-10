@@ -1,9 +1,0 @@
-{
-  "parent": "warriorcats_events:kittypet_bowls/bowl_base_half",
-  "textures": {
-    "10": "minecraft:block/orange_terracotta",
-    "particle": "minecraft:block/orange_terracotta",
-
-    "11": "warriorcats_events:block/empty"
-  }
-}

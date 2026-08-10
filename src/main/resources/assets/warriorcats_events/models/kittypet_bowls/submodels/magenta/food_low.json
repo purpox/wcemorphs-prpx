@@ -1,9 +1,0 @@
-{
-  "parent": "warriorcats_events:kittypet_bowls/bowl_base_low",
-  "textures": {
-    "10": "minecraft:block/magenta_concrete",
-    "particle": "minecraft:block/magenta_concrete",
-
-    "11": "warriorcats_events:block/empty"
-  }
-}

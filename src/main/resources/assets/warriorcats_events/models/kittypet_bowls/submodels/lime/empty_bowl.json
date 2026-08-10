@@ -1,7 +1,0 @@
-{
-  "parent": "warriorcats_events:kittypet_bowls/bowl_base_empty",
-  "textures": {
-    "10": "minecraft:block/lime_concrete",
-    "particle": "minecraft:block/lime_concrete"
-  }
-}

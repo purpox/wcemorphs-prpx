@@ -1,7 +1,0 @@
-// 1.20.1	2026-05-20T21:48:55.8675239	Tags for minecraft:item mod id warriorcats_events
-8ef2305b7cd83068fe0e093cce40d203be92965b data/minecraft/tags/items/creeper_drop_music_discs.json
-8ef2305b7cd83068fe0e093cce40d203be92965b data/minecraft/tags/items/music_discs.json
-90e12821de935f12883d6daddc5d12afcff5c6d1 data/sereneseasons/tags/items/autumn_crops.json
-8a18b01092cf3b6a44f71950e5edccab814c7719 data/sereneseasons/tags/items/spring_crops.json
-4f53e95ccb376a3cc5013beb36291eb3fabf780d data/sereneseasons/tags/items/summer_crops.json
-edefc3139c5f975785ce6c955c27661e4cdfb49a data/sereneseasons/tags/items/winter_crops.json

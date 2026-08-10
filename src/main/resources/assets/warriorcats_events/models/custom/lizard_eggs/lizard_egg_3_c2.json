@@ -1,7 +1,0 @@
-{
-  "parent": "warriorcats_events:custom/lizard_egg_3",
-  "textures": {
-    "0": "warriorcats_events:block/lizard_egg_c2",
-    "particle": "warriorcats_events:block/lizard_egg_c2"
-  }
-}

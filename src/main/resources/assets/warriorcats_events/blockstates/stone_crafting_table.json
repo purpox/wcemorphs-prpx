@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "warriorcats_events:block/stone_crafting_table" },
-    "facing=south": { "model": "warriorcats_events:block/stone_crafting_table", "y": 180 },
-    "facing=west":  { "model": "warriorcats_events:block/stone_crafting_table", "y": 270 },
-    "facing=east":  { "model": "warriorcats_events:block/stone_crafting_table", "y": 90 }
-  }
-}

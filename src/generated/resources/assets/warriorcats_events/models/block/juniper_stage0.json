@@ -1,7 +1,0 @@
-{
-  "parent": "warriorcats_events:custom/big_cross",
-  "render_type": "minecraft:cutout",
-  "textures": {
-    "cross": "warriorcats_events:block/juniper_stage0"
-  }
-}

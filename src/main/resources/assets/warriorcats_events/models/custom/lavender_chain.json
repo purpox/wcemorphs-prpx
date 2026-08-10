@@ -1,7 +1,0 @@
-{
-  "parent": "warriorcats_events:custom/daisy_chain",
-  "textures": {
-    "11": "warriorcats_events:block/lavender_chain",
-    "particle": "warriorcats_events:block/lavender_chain"
-  }
-}
