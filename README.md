@@ -1,7 +1,12 @@
 
-> # PRPX's Warrior Cats Events Morphs
-This is a catalogue of custom morphs/skins made for the Minecraft mod Warriors Cats Events. For viewing the original repository, click [here](https://github.com/Snowo69/WarriorCatsEvents). To download the skins, click on the 'main' button, and swap it to 'skins'.
-For a more easier UI, scroll to the top and click on 'Releases', which hosts dedicated pages for each skin.
+> # PRPX's Warrior Cats Events Morph Pack
+This is a catalogue of custom morphs/skins made for the Minecraft mod Warriors Cats Events. For viewing the original repository, click [here](https://github.com/Snowo69/WarriorCatsEvents).
+# To download the skins as a pack,
+Go to 'Releases', then download the latest 'pack.zip'.
+# To download individual skins,
+Use the file browser on this page to check out a skin you like, then click 'download raw'. This will open a popup for your file manager. Store it in your downloads, then select it in-game.
+#- Needs more clarification
+
 I'm unsure if this is the brightest way to release skins, but I do plan on making a website in the future.
 ___
 
