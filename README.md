@@ -8,7 +8,7 @@ Note: These skins were made with the 1.20.1 version in-mind, and has not been te
 Go to 'Releases', then download the latest 'pack.zip'. <- there arent any right now
 ## Or,
 On this page, click on the green 'Code' button, download as .zip, extract it, and drag the pack folder into your resourcepack folder.
-- Linux: ??/resourcepack
+- Linux: ??/[YOUR_WORLD_NAME]/resourcepack
 - Windows: ??
 - If your using a launcher to play Minecraft (e.x. Prism Launcher), you'll need to go inside the folder of the launcher (e.x. on Linux: ~/.local/share/PrismLauncher/instances, alternatively right-click on your world and select location in file manager)
 # To download individual skins,
