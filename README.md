@@ -7,7 +7,7 @@ Note: These skins were made with the 1.20.1 version in-mind, and has not been te
 # To download the skins as a pack,
 (INSTRUCTIONS ARE WIP - STILL FIGURING THINGS OUT)
 
-Go to 'Releases', then download the latest 'pack.zip'. <- there arent any right now
+Click [here](https://github.com/purpox/wcemorphs-prpx/releases/tag/pack) to go to the latest release, then download the latest 'pack.zip'.
 ## Or,
 On this page, click on the green 'Code' button, download as .zip, extract it, and drag the pack folder into your resourcepack folder.
 - Generally the folder structure is: ??/[REPLACE_YOUR_WORLD_NAME]/resourcepack
