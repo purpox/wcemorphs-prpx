@@ -8,6 +8,9 @@ skins
 - [ ] add tarmite (he'll have a silly and non scary face dont worry) & red?
 - [ ] add wallter? (he is a trigger tosome ppl so i am not sure. mb as separate release?)
 - [ ] add chameleon like cats that blend with minecraft blocks?
+- [ ] other regretevator characters
+- [ ] gnuppy?
+- [ ] dreambunny?
 - [ ] add lampert?
 - [ ] add jan kisa
 - [ ] add other jan kisa?
