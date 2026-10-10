@@ -11,6 +11,9 @@ skins
 - [ ] other regretevator characters
 - [ ] gnuppy?
 - [ ] dreambunny?
+- [ ] add smiley face cat? (might also b triggering to ppl, and blank noob probably already covers dis)
+- [ ] chester cheez skin.....bcuz i think abt him a lot lol
+      - or mb just a mouse skin ig
 - [ ] add lampert?
 - [ ] add jan kisa
 - [ ] add other jan kisa?
