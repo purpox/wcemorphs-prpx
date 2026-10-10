@@ -3,7 +3,7 @@
 
 This is a pack of custom morphs/skins made for the Minecraft mod Warriors Cats Events. For viewing the original repository, click [here](https://github.com/Snowo69/WarriorCatsEvents).
 
-Note: These skins were made with the 1.20.1 version in-mind, and has not been tested with version 1.21.1 of the game. These skins were also not made for other general use outside of WCE, but may be easily used, as long as credit is given (both the skin author and character creator). Please use at your own risk.
+Note: These skins were made with the 1.20.1 version in-mind, and has not been tested with version 1.21.1 of the game. These skins can be used as normal Minecraft cat skins, as long as it is not used for profit and credit is given to both the skin author (prpx/purpox) and creator of the character. Please use at your own risk.
 # To download the skins as a pack,
 (INSTRUCTIONS ARE WIP - STILL FIGURING THINGS OUT)
 Go to 'Releases', then download the latest 'pack.zip'. <- there arent any right now
@@ -16,7 +16,7 @@ On this page, click on the green 'Code' button, download as .zip, extract it, an
 Use the file browser on this page to check out a skin you like, then click 'download raw'. This will open a popup for your file manager. Store it in your downloads, then select it in-game.
 #- Needs more clarification
 
-I'm unsure if this is the brightest way to release skins, but I do plan on making a website in the future.
+I'm unsure if this is the brightest way to release skins, but I do plan on making a dedicated website page for it in the future.
 ___
 
 ![Title](https://github.com/Snowo69/WarriorCatsEvents/blob/main/src/main/resources/wce_title.png?raw=true)
