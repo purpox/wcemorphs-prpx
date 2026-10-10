@@ -6,6 +6,7 @@ This is a pack of custom morphs/skins made for the Minecraft mod Warriors Cats E
 Note: These skins were made with the 1.20.1 version in-mind, and has not been tested with version 1.21.1 of the game. These skins can be used as normal Minecraft cat skins, as long as it is not used for profit and credit is given to both the skin author (prpx/purpox) and creator of the character. Please use at your own risk.
 # To download the skins as a pack,
 (INSTRUCTIONS ARE WIP - STILL FIGURING THINGS OUT)
+
 Go to 'Releases', then download the latest 'pack.zip'. <- there arent any right now
 ## Or,
 On this page, click on the green 'Code' button, download as .zip, extract it, and drag the pack folder into your resourcepack folder.
