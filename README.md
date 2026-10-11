@@ -7,14 +7,14 @@ Note: These skins were made with the 1.20.1 version in-mind, and has not been te
 # To download the skins as a pack,
 (INSTRUCTIONS ARE WIP - STILL FIGURING THINGS OUT)
 
-Click [here](https://github.com/purpox/wcemorphs-prpx/releases/tag/pack) to go to the latest release, then download the latest 'pack.zip'.
+Click [here](https://github.com/purpox/wcemorphs-prpx/releases/tag/pack) to go to the latest release, then download the latest 'pack.zip' (or otherwise aptly named 'PRPXs WCE Morphs Pack.zip').
 ## Or,
 On this page, click on the green 'Code' button, download as .zip, extract it, and drag the pack folder into your resourcepack folder.
 - Generally the folder structure is: ??/[REPLACE_YOUR_WORLD_NAME]/resourcepack
 
-- If your using a launcher to play Minecraft (e.x. Prism Launcher), you'll need to go inside the folder of the launcher (e.x. on Linux: ~/.local/share/PrismLauncher/instances, alternatively right-click on your world and select location in file manager)
+- If your using a launcher to play Minecraft (e.x. Prism Launcher), you'll need to go inside the folder of the launcher and then to your world folder (e.x. on Linux: ~/.local/share/PrismLauncher/instances or ~/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/, alternatively right-click on your world and select location in file manager)
 # To download individual skins,
-Use the file browser on this page to check out a skin you like, then click 'download raw'. This will open a popup for your file manager. Store it in your downloads, then select it in-game.
+Go into the folder on this page, click on a skin you like, then click 'download raw'. This will open a popup for your file manager. Store it in your downloads, then add it to either the template resource pack (link l8r) or create one, then select it in-game.
 #- Needs more clarification
 
 I'm unsure if this is the brightest way to release skins, but I do plan on making a dedicated website page for it in the future.
